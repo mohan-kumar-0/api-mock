@@ -1,0 +1,18 @@
+{
+    "name": "api-mock",
+    "version": "1.0.0",
+    "description": "Powerful Express middleware to mock APIs with dynamic responses and latency simulation.",
+    "main": "index.js",
+    "keywords": [
+        "express",
+        "mock",
+        "api",
+        "middleware",
+        "mock-server"
+    ],
+    "author": "Antigravity",
+    "license": "MIT",
+    "peerDependencies": {
+        "express": "^4.0.0"
+    }
+}
