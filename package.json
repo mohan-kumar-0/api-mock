@@ -1,5 +1,5 @@
 {
-    "name": "api-mock",
+    "name": "express-api-mockr",
     "version": "1.0.0",
     "description": "Powerful Express middleware to mock APIs with dynamic responses and latency simulation.",
     "main": "index.js",
