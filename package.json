@@ -1,18 +1,38 @@
 {
     "name": "express-api-mockr",
-    "version": "1.0.0",
-    "description": "Powerful Express middleware to mock APIs with dynamic responses and latency simulation.",
+    "version": "1.0.1",
+    "description": "Powerful Express middleware to mock REST APIs with dynamic responses, per-route latency simulation, and request-aware body generation. Perfect for frontend development without a real backend.",
     "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mohan-kumar-0/api-mock.git"
+    },
+    "homepage": "https://github.com/mohan-kumar-0/api-mock#readme",
+    "bugs": {
+        "url": "https://github.com/mohan-kumar-0/api-mock/issues"
+    },
     "keywords": [
         "express",
         "mock",
         "api",
         "middleware",
-        "mock-server"
+        "mock-server",
+        "rest-api",
+        "fake-api",
+        "json-server",
+        "mock-backend",
+        "dev-server",
+        "latency",
+        "testing",
+        "frontend-development",
+        "api-stub"
     ],
-    "author": "Antigravity",
+    "author": "mohan-kumar-0",
     "license": "MIT",
     "peerDependencies": {
-        "express": "^4.0.0"
+        "express": "^4.0.0 || ^5.0.0"
     }
 }
