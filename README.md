@@ -173,3 +173,5 @@ If a request does not match any defined endpoint, the middleware calls `next()` 
 ## License
 
 MIT -- see [LICENSE](https://github.com/mohan-kumar-0/api-mock/blob/main/LICENSE) for details.
+
+Made by [Mohan Kumar](https://kumarmohan.com)
